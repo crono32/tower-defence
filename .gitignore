@@ -1,0 +1,7 @@
+.vs/
+build/
+intermediate/
+TowerDefence.sln
+TowerDefence.vcxproj
+TowerDefence.vcxproj.filters
+TowerDefence.vcxproj.user
